@@ -2,7 +2,7 @@
 on:
   push:
     branches: 
-      - master, main
+      - main
 
 name: Deploy to Amazon ECS
 
